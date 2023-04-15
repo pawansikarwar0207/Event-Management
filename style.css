@@ -1,0 +1,83 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.container{
+	font-style: italic;
+}
+
+.image-fluid{
+	width: 100%;
+	height: 90vh;	
+	background-size: cover;
+	max-width: 100%;
+	position: absolute;
+}
+.container-fluid{
+	position: relative;
+}
+.container-fluid h1{
+	font-size: 2.8rem;
+	font-weight: bold;
+}
+.container-fluid p{
+	font-size:15px;
+	font-weight: bold;
+}
+.music{
+	color: crimson;
+}
+#content {
+	padding-top:12%;
+}
+#card{
+	margin-top: 20%;
+}
+#card h2{
+	font-style: italic;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+.card {
+	display: inline-block;
+	border-radius: 10px;
+}
+.card-body p {
+	font-weight: 500;
+}
+.img {
+	width: 500px;
+	height: 330px;
+	max-width: 100%;
+}
+#music h1{
+	font-weight: bold;
+}
+#concert h1{
+	font-weight: bold;
+}
+#value h2{
+	font-weight: bold;
+}
+#value h5{
+	font-weight: bold;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.container10 ul li{
+	display: inline-block;
+	padding: 0px 10px;
+	font-weight: bold;
+	font-style: italic;
+}
+.container10 h1{
+	padding-left:40px;
+	margin-top: 10px;
+}
+.container10 i{
+	margin-top: 10%;
+	padding-left: 10px;
+
+}
